@@ -1,0 +1,2 @@
+estudiantes = [{"nombre": "Mati", "edad": 19, "curso": "Segundo A"}, {"nombre": "Jesús", "edad": 20, "curso": "Cuarto B"}, {"nombre": "Constanza", "edad": 19, "curso": "Primero A"}]
+print(estudiantes[1]["nombre"])
